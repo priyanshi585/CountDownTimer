@@ -14,9 +14,9 @@ This is a simple yet elegant Countdown Timer built using **HTML**, **CSS**, and 
 <b>JavaScript</b> – For logic and dynamic behavior
 
 <h2>✍️ What I Learned</h2>
-- Working with the JavaScript Date object
-- Real-time DOM manipulation using querySelectorAll and setInterval()
-- Time conversion logic (seconds → minutes → hours → days)
-- Handling UI updates based on logic
+- Working with the JavaScript Date object<br>
+- Real-time DOM manipulation using querySelectorAll and setInterval()<br>
+- Time conversion logic (seconds → minutes → hours → days)<br>
+- Handling UI updates based on logic<br>
 
-Link for the Project: 
+<b>Link for the Project</b>: 
